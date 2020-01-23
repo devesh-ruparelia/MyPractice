@@ -1,3 +1,5 @@
+package practice;
+
 public class P4 {
     public static void main(String[] args) {
         char ch1='A';
